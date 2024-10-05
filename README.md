@@ -9,8 +9,11 @@ O programa lê um número inteiro que indica o tamanho do array.\
 Em seguida, lê uma série de inteiros que devem ser armazenados em cada posição correspondente do array.\
 O código bloqueado no editor de texto cuida de imprimir os elementos do array em ordem.
 
-## Formato de Entrada:\
+## Formato de Entrada:
 A primeira linha contém um número inteiro, que define o tamanho do array.\
 As linhas subsequentes contêm um valor inteiro para cada elemento do array.
 
 Exemplo de Entrada:
+
+![imagens/Entrada1.png](imagens/Entrada1.png)
+
