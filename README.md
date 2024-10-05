@@ -1,4 +1,4 @@
-# Array de uma dimensao com Java
+# Array de uma dimensão com Java
 
 Manipulação de um array unidimensional (1D) em Java. Um array é uma estrutura de dados que armazena elementos em blocos de memória contíguos,\
 onde cada elemento é acessado por um índice. 
