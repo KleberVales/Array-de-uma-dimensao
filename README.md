@@ -17,3 +17,7 @@ Exemplo de Entrada:
 
 ![imagens/Entrada1.png](imagens/Entrada1.png)
 
+Exemplo de Saída:
+
+![imagens/Entrada2.png](imagens/Entrada2.png)
+
